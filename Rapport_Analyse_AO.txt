@@ -1,0 +1,162 @@
+En tant qu'expert en marchés publics et privés, j'ai analysé les documents du Dossier de Consultation des Entreprises (DCE) pour la "Fourniture MATERIEL AGRICOLE - 2026Appr-MoteurAgri" de l'IFPRA Normandie.
+
+Voici mon rapport structuré :
+
+---
+
+### Rapport d'Analyse du DCE : Fourniture MATERIEL AGRICOLE - 2026Appr-MoteurAgri
+
+**Acheteur :** IFPRA (Institut de la Formation Professionnelle en Région Académique)
+**Référence :** 2026Appr-MoteurAgri
+**Objet :** Fourniture de 2 moteurs sur banc pour les filières CAP et BACPro Matériels Agricoles du Lycée Risle Seine de Pont Audemer.
+
+---
+
+### 1. FILTRAGE STRICT
+
+*   **Montant estimé dépassant 200 000 euros :** Les documents indiquent une procédure adaptée (MAPA) conformément aux articles L.2123-1, R.2123-1 à R-2123-8 du code de la commande publique. Cependant, **aucun montant estimé n'est précisé** dans les documents fournis. Il est donc impossible de confirmer si le montant dépasse 200 000 euros.
+*   **Visite obligatoire :** Aucune visite de site obligatoire n'est mentionnée dans le Règlement de Consultation (RC), le Cahier des Clauses Administratives Particulières (CCAP) ou le Cahier des Clauses Techniques Particulières (CCTP). Les questions doivent être posées uniquement via la plateforme PLACE.
+
+**Conclusion du filtrage : ÉLIGIBLE**
+*L'absence d'information sur le montant estimé ne permet pas de rejeter l'offre sur ce seul critère. L'absence de visite obligatoire est confirmée.*
+
+---
+
+### 2. ESTIMATION DES CRITÈRES DE JUGEMENT
+
+Le jugement des offres sera effectué selon les critères et pondérations suivants, tels que définis dans le Règlement de Consultation (RC, page 6) :
+
+1.  **Prix des prestations (50 points)**
+    *   **Pondération :** 50%
+    *   **Méthode de calcul :** La note sera attribuée selon la formule suivante : (montant de l’offre la moins chère / montant de l’offre à noter) x 50. L'offre la moins chère obtiendra la note maximale de 50 points.
+
+2.  **Critères techniques (40 points)**
+    *   **Pondération :** 40%
+    *   **Méthode de notation :** Une note de 0 (non renseigné ou hors CCTP) à 40 (excellent) sera attribuée. L'évaluation se fera sur la base des critères techniques détaillés dans le CCTP et en comparaison avec les offres des autres soumissionnaires.
+    *   **Éléments valorisés :** La solidité, la durabilité, la puissance du matériel, ainsi que les modalités de formation proposées, seront particulièrement étudiées et valorisées.
+
+3.  **Délais de livraison (5 points)**
+    *   **Pondération :** 5%
+    *   **Méthode de notation :** La note maximale de 5 points sera attribuée au soumissionnaire proposant le délai de livraison de 5 mois calendaires maximum (délai indiqué au CCAP). La note sera dégressive d’un point par mois ouvrable supplémentaire.
+
+4.  **Normes environnementales - RSE (5 points)**
+    *   **Pondération :** 5%
+    *   **Éléments évalués (détaillés dans le CCAP) :**
+        *   Lutte contre les discriminations (promotion de l'égalité femmes/hommes, lutte contre les discriminations liées aux origines).
+        *   Démarches mises en place en faveur des personnes éloignées de l'emploi ou pour favoriser l'apprentissage des jeunes.
+        *   Conformité environnementale des produits proposés (validée par l'écolabel européen ou équivalent).
+        *   Mesures environnementales prises en matière de conditionnement (matériaux recyclables, biodégradables ou autres) et d'optimisation des livraisons.
+
+---
+
+### 3. CAHIER DES CHARGES DÉTAILLÉ PAR ÉLÉMENT
+
+Le marché n'est pas alloti et porte sur la fourniture de deux bancs moteurs distincts.
+
+**Exigences générales pour l'ensemble du marché :**
+
+*   **Matériel :** Neuf, de qualité professionnelle, conforme aux normes françaises ou européennes en vigueur et à la réglementation sur la prévention des risques professionnels.
+*   **Documentation :** Fiches techniques détaillées, modes d'emploi, et documentation technique sur support numérique (clé USB ou équivalent) en français. Accès aux informations techniques de maintenance (catalogue pièces, manuels, schémas électriques).
+*   **Garantie :** Minimum 3 ans pièces et main d'œuvre. Toute durée inférieure doit être spécifiée et une extension de garantie chiffrée dans le BPU.
+*   **Service Après-Vente (SAV) :** Intervention rapide. En cas de délai de réparation supérieur à 10 jours ouvrés pendant la garantie, prêt de matériel adapté sous 3 jours ouvrés (coût couvert par la garantie).
+*   **Livraison, Installation, Formation :** Les frais de transport, livraison, installation et mise en service sont inclus dans le prix de l'équipement. Une formation des enseignants doit être proposée, détaillée dans l'offre technique et chiffrée dans le BPU, et réalisée le jour de la mise en service.
+*   **Délais de livraison :** Maximum 5 mois calendaires à compter de l'envoi du bon de commande. Les livraisons sont interrompues pendant les vacances scolaires (zone B) sauf indication contraire sur le bon de commande.
+*   **Facturation :** Sur Chorus Pro, datée du jour de la livraison (ou postérieure), accompagnée du bon de livraison signé. Délai de paiement de 30 jours.
+
+---
+
+#### 3.1. Banc moteur B6.7 ou équivalent (Quantité : 1)
+
+**Lieu de livraison :** UFA Risle Seine PONT AUDEMER
+
+**Contraintes fonctionnelles :**
+*   Équipé d'un moteur neuf avec système de post-traitement des gaz d'échappement (DOC, DPF, SCR).
+*   Associé à une boîte à pannes permettant des Circuits Ouverts, Courts-Circuits et ajouts de résistances sur les lignes.
+*   Panneau de mesures pour relevés de grandeurs physiques (résistances, tensions d'alimentations, tensions de commandes et signaux des capteurs).
+
+**Contraintes technologiques :**
+*   **Moteur :** Diesel de type Cummins B6.7 ou équivalent (performances, cylindrée et couple équivalents).
+*   **Norme :** Conforme à la réglementation européenne Stage V.
+*   **Injection :** Diesel à injection électronique, type Common Rail ou équivalent (gestion électronique des injections).
+*   **Suralimentation :** Turbocompresseur à géométrie variable ou équivalent.
+*   **Démarrage à froid :** Système d'aide au démarrage à froid intégré (type réchauffage air ou équivalent).
+*   **Post-traitement :** Système de post-traitement des gaz d'échappement conforme Stage V (DOC + DPF + SCR ou équivalent).
+*   **Réservoirs :** Réservoir d'AdBlue et réservoir de carburant.
+*   **Pupitre de commande (à minima) :**
+    *   Système de démarrage et d'arrêt du moteur par commande sécurisée (clé ou équivalent).
+    *   Dispositif d'arrêt d'urgence.
+    *   Prise de diagnostic moteur standard avec accès aux données et défauts (CAN / J1939 ou équivalent).
+    *   Commande d'accélération au pied (variation du régime moteur).
+    *   Commande d'accélération à la main (maintien de régimes stabilisés).
+    *   Dispositif de protection électrique (fusibles et relais accessibles).
+    *   Interface d'affichage (suivi des principaux paramètres moteur et lecture des codes défaut).
+    *   Gestion des fonctions de post-traitement des gaz d'échappement, incluant les régénérations de filtre à particules selon les stratégies constructeur.
+*   **Sécurité :**
+    *   Bac de rétention adapté aux fluides du moteur.
+    *   Protections des éléments en mouvement (conformément à la directive Machines 2006/42/CE).
+    *   Isolation thermique des parties chaudes accessibles.
+*   **Pédagogie :** Conçu pour une visibilité et une accessibilité pédagogique optimales des éléments techniques.
+
+**Documentation Pédagogique :**
+*   Dossier pédagogique avec travaux pratiques (version élève et enseignant), coût inclus.
+
+**Accessoires :**
+*   **1 Oscilloscope 4 voies dédié maintenance des véhicules :**
+    *   Type numérique, interface logicielle sur ordinateur (Windows 11 ou équivalent).
+    *   Boîtier d'acquisition à au moins 4 voies de mesure protégées.
+    *   Accessoires minimaux : cordons de mesure sécurisés (fiche banane Ø 4 mm ou équivalent), pinces ampèremétriques (courant fort et faible), interface de connexion USB ou équivalent (longueur minimale 1,5 m), capteurs adaptés à l'analyse des systèmes d'allumage, dispositif de mesure de commande de bobines d'allumage par induction ou équivalent, kit de pointes de test et pinces crocodiles, sondes de mesure de tension avec facteur d'atténuation x10 ou équivalent, cordons de test adaptés à la mesure de fusibles (minimum 2).
+    *   Logiciel : acquisition, affichage, analyse des signaux sur PC, incluant des fonctionnalités pédagogiques (procédures de tests guidés, base de données technique dédiée au diagnostic automobile ou équivalent).
+
+---
+
+#### 3.2. Banc Moteur F3.8 ou équivalent (Quantité : 1)
+
+**Lieu de livraison :** UFA Risle Seine PONT AUDEMER
+
+**Contraintes fonctionnelles :**
+*   Équipé d'un moteur neuf avec système de post-traitement des gaz d'échappement (DOC, DPF, SCR).
+*   Associé à une boîte à pannes permettant des Circuits Ouverts, Courts-Circuits et ajouts de résistances sur les lignes.
+*   Panneau de mesures pour relevés de grandeurs physiques (résistances, tensions d'alimentations, tensions de commandes et signaux des capteurs).
+
+**Contraintes technologiques :**
+*   **Moteur :** Diesel de type Cummins B 3.8 ou équivalent (performances, cylindrée et couple équivalents).
+*   **Norme :** Conforme à la réglementation européenne Stage V.
+*   **Injection :** Diesel à injection électronique, type Common Rail ou équivalent (gestion électronique des injections).
+*   **Suralimentation :** Turbocompresseur à géométrie fixe ou équivalent.
+*   **Démarrage à froid :** Système d'aide au démarrage à froid intégré (type réchauffage air ou équivalent).
+*   **Post-traitement :** Système de post-traitement des gaz d'échappement conforme Stage V (DOC + DPF + SCR ou équivalent).
+*   **Réservoirs :** Réservoir d'AdBlue et réservoir de carburant.
+*   **Pupitre de commande (à minima) :**
+    *   Système de démarrage et d'arrêt du moteur par commande sécurisée (clé ou équivalent).
+    *   Dispositif d'arrêt d'urgence.
+    *   Prise de diagnostic moteur standard avec accès aux données et défauts (CAN / J1939 ou équivalent).
+    *   Commande d'accélération au pied (variation du régime moteur).
+    *   Commande d'accélération à la main (maintien de régimes stabilisés).
+    *   Dispositif de protection électrique (fusibles et relais accessibles).
+    *   Interface d'affichage (suivi des principaux paramètres moteur et lecture des codes défaut).
+    *   Gestion des fonctions de post-traitement des gaz d'échappement, incluant les régénérations de filtre à particules selon les stratégies constructeur.
+*   **Sécurité :**
+    *   Bac de rétention adapté aux fluides du moteur.
+    *   Protections des éléments en mouvement (conformément à la directive Machines 2006/42/CE).
+    *   Isolation thermique des parties chaudes accessibles.
+*   **Pédagogie :** Conçu pour une visibilité et une accessibilité pédagogique optimales des éléments techniques.
+
+**Documentation Pédagogique :**
+*   Dossier pédagogique avec travaux pratiques (version élève et enseignant), coût inclus.
+
+**Accessoires :**
+*   **1 Système d'acquisition de données et exploitation :**
+    *   Acquisition simultanée d'au moins 16 signaux analogiques.
+    *   8 voies configurables pour l'acquisition de signaux logiques ou différentiels.
+    *   Protections contre les erreurs de manipulation (courts-circuits, surcharges de tension, inversions de branchement) sans dégradation du matériel.
+    *   Liaison avec un ordinateur via interface standard (USB ou équivalent).
+    *   Alimentation : sans recours à une alimentation secteur 230 V dédiée (via interface USB ou alimentation intégrée).
+    *   Fonction oscilloscope multivoies (affichage simultané d'au moins 16 voies avec visualisation des grandeurs mesurées).
+    *   Connexions de mesure sécurisées (fiches bananes Ø 4 mm ou équivalent).
+    *   Interface de connexion standard (USB ou équivalent).
+    *   Fréquence d'acquisition : minimum 100 kHz.
+    *   Utilisation intuitive permettant à minima : aide au câblage, acquisition des données avec réglage des conditions de déclenchement, exploitation des données sous forme de représentations graphiques adaptées.
+    *   Traitements et calculs sur les données acquises via un outil logiciel intégré ou équivalent.
+    *   Conçu pour un usage intensif en environnement pédagogique et robustesse adaptée.
+
+---
