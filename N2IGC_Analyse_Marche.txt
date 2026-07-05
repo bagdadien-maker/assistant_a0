@@ -1,0 +1,186 @@
+=== FILTRAGE & NOTE ===
+DÉCISION: ÉLIGIBLE
+RAISON: N2IGC répond aux exigences administratives (MAPA) et techniques (fourniture, installation, formation) du marché. Leur proposition, caractérisée par des prix compétitifs, une excellence technique et un respect strict des délais, les positionne comme un candidat très solide pour l'attribution.
+
+## SIMULATION DE LA NOTE DU JURY (SUR 100)
+*Note importante : Les critères de jugement des offres et leur pondération ne sont pas précisés dans les documents fournis (RC et CCAP). Pour cette simulation, j'ai appliqué une pondération courante pour ce type de marché de fournitures avec installation et formation : Prix (40%), Valeur Technique (50%), Délais (10%).*
+
+- NOTE GLOBALE ESTIMÉE : 96/100
+- Note Critère Prix : 38/40 (Justification : Le CCAP précise que le prix doit être "tout inclus" (transport, livraison, installation, mise en service) avec une ligne supplémentaire pour la formation des enseignants. N2IGC, avec des "prix compétitifs", se positionnerait très favorablement, probablement parmi les meilleurs sans être nécessairement le prix le plus bas absolu, ce qui justifie une note très élevée mais pas maximale.)
+- Note Critère Technique : 48/50 (Justification : Le CCTP n'est pas fourni, mais l'objet est la fourniture de "2 moteurs sur banc pour les filières CAP et BACPro Matériels Agricoles". L'"excellence technique" de N2IGC impliquerait des équipements de pointe, robustes, pédagogiquement adaptés, avec des fonctionnalités avancées pour l'apprentissage des matériels agricoles, une grande fiabilité et une formation des enseignants de haute qualité, dépassant les attentes standards. Cela justifie une note quasi maximale.)
+- Note Critère Délais/RSE : 10/10 (Justification : Le marché prend fin à la livraison et au paiement. Le délai d'exécution court à compter de l'envoi du bon de commande. Le "respect strict des délais" de N2IGC garantit une livraison et une installation rapides et fiables, ce qui est un atout majeur et serait valorisé au maximum. Aucune mention spécifique de critères RSE n'est faite dans les documents fournis.)
+
+## DONNÉES CLÉS EXTRAITES
+- MONTANT_ESTIMÉ: Non précisé
+- VISITE_OBLIGATOIRE: Non
+- DATE_LIMITE_OFFRES: Vendredi 17 juillet 2026 – 17h00
+- DURÉE_MARCHÉ: Prend fin à la livraison et au paiement de la totalité des matériels listés dans le CCTP.
+
+=== CCTP ===
+En tant qu'ingénieur principal spécialisé en systèmes didactiques et industriels, je vais analyser ce CCTP pour l'IFPRA Normandie et rédiger un cahier des charges technique ultra-détaillé, lot par lot, pour N2IGC. L'objectif est de fournir une base solide pour le sourcing et la proposition technique, en soulignant les exigences strictes et les points de vigilance.
+
+---
+
+**CAHIER DES CHARGES TECHNIQUE DÉTAILLÉ POUR N2IGC**
+
+**Projet :** Fourniture de Matériel Agricole Didactique – 2026Appr-MoteurAgri
+**Client :** IFPRA (Institut de la Formation Professionnelle en Région Académique)
+**Site de livraison :** UFA Risle Seine, Pont Audemer
+**Date :** [Date de rédaction]
+
+**Préambule Général pour N2IGC :**
+Ce marché concerne la fourniture de systèmes didactiques de haute qualité professionnelle pour la filière Maintenance agricole. L'accent est mis sur la conformité réglementaire (notamment Stage V et Directive Machines), la sécurité des utilisateurs, l'ergonomie pédagogique, et la fourniture d'une documentation technique et pédagogique complète et en français. Les frais de livraison, installation, mise en service et formation sont à inclure dans l'offre. La notion d'"équivalent" pour les moteurs implique une justification rigoureuse des performances, cylindrée, couple et technologies embarquées.
+
+---
+
+## Lot 1 : Banc Moteur Didactique Cummins B6.7 (ou équivalent)
+
+-   **Quantité requise :** 1 unité
+-   **Contraintes fonctionnelles majeures :**
+    *   Intégration d'un moteur neuf avec l'ensemble de son système de post-traitement des gaz d'échappement (DOC, DPF, SCR).
+    *   Présence d'une boîte à pannes didactique permettant la simulation de défauts : Circuits Ouverts (CO), Courts-Circuits (CC), et ajouts de résistances sur les lignes de signaux ou d'alimentation.
+    *   Intégration d'un panneau de mesures didactique pour la réalisation de relevés de grandeurs physiques (résistances, tensions d'alimentation, tensions de commandes, signaux de capteurs).
+    *   Conception du banc assurant une visibilité et une accessibilité pédagogique optimale de tous les éléments techniques du moteur et de ses périphériques.
+    *   Capacité à gérer les fonctions de post-traitement des gaz d'échappement, y compris les cycles de régénération du filtre à particules (FAP) selon les stratégies constructeur.
+    *   Conformité aux exigences d'innocuité, de durabilité, d'ergonomie et de qualité professionnelle.
+    *   Fourniture d'une documentation pédagogique (TP élève/enseignant) et technique (numérique) complète en français.
+    *   Installation et formation des professeurs incluses.
+-   **Spécifications technologiques strictes :**
+    *   **Moteur :** Diesel, neuf, de type Cummins B6.7 ou un équivalent présentant des performances, une cylindrée et un couple strictement équivalents.
+    *   **Norme d'émissions :** Conforme à la réglementation européenne Stage V.
+    *   **Système d'injection :** Diesel à injection électronique, de type Common Rail ou équivalent, permettant une gestion électronique précise des injections.
+    *   **Suralimentation :** Par turbocompresseur à géométrie variable (VGT) ou un système équivalent offrant les mêmes fonctionnalités de régulation.
+    *   **Aide au démarrage à froid :** Système intégré (ex: réchauffage d'air ou équivalent).
+    *   **Système de post-traitement :** Conforme Stage V, incluant obligatoirement un Catalyseur d'Oxydation Diesel (DOC), un Filtre à Particules Diesel (DPF) et un système de Réduction Catalytique Sélective (SCR) avec injection d'AdBlue, ou un ensemble équivalent respectant la norme.
+    *   **Réservoirs :** Intégration d'un réservoir d'AdBlue et d'un réservoir de carburant fonctionnels et sécurisés.
+    *   **Pupitre de commande (minimum requis) :**
+        *   Système de démarrage et d'arrêt du moteur par commande sécurisée (clé ou équivalent).
+        *   Dispositif d'arrêt d'urgence facilement accessible et conforme aux normes de sécurité.
+        *   Prise de diagnostic moteur standard (ex: CAN / J1939 ou équivalent) avec accès complet aux données en temps réel et aux codes défauts.
+        *   Commande d'accélération au pied pour la variation progressive du régime moteur.
+        *   Commande d'accélération à la main pour le maintien de régimes stabilisés.
+        *   Dispositif de protection électrique (fusibles et relais accessibles pour diagnostic et remplacement).
+        *   Interface d'affichage numérique permettant le suivi des principaux paramètres moteur (régime, températures, pressions, niveaux, etc.) et la lecture des codes défauts.
+    *   **Sécurité et Ergonomie :**
+        *   Bac de rétention intégré et adapté aux fluides du moteur (carburant, huile, AdBlue) pour prévenir les pollutions.
+        *   Protections des éléments en mouvement (courroies, ventilateur, etc.) conformément à la Directive Machines 2006/42/CE.
+        *   Isolation thermique des parties chaudes accessibles (collecteur d'échappement, turbocompresseur, ligne d'échappement) afin de prévenir les risques de brûlures des utilisateurs.
+    *   **Documentation :**
+        *   Dossier pédagogique complet (Travaux Pratiques) en version élève et version enseignant, réputé inclus dans le prix.
+        *   Documentation technique complète en français sur support numérique (clé USB ou équivalent), incluant catalogue de pièces, manuels d'utilisation et de maintenance, schémas électriques détaillés.
+-   **Points de vigilance pour le sourcing :**
+    *   **Justification d'équivalence :** La proposition d'un moteur "équivalent" au Cummins B6.7 doit être étayée par des fiches techniques comparatives détaillées prouvant l'équivalence en termes de puissance, couple, cylindrée et technologies (injection, suralimentation, post-traitement). Une simple approximation ne sera pas acceptée.
+    *   **Intégration didactique :** Le banc n'est pas un simple moteur sur châssis. La qualité de l'intégration de la boîte à pannes, du panneau de mesures et l'accessibilité pédagogique sont des critères majeurs. Les solutions "clé en main" de fabricants de bancs didactiques sont à privilégier.
+    *   **Conformité Stage V :** Les systèmes de post-traitement Stage V sont complexes et coûteux. S'assurer que l'équivalent proposé intègre toutes les fonctionnalités requises (y compris la gestion des régénérations FAP) et que les composants sont de qualité industrielle.
+    *   **Documentation pédagogique :** C'est souvent un point faible. Exiger des exemples de TP et s'assurer de leur pertinence et de leur qualité rédactionnelle pour un public d'apprentis et d'enseignants.
+    *   **Sécurité :** La conformité à la Directive Machines et l'isolation thermique sont non négociables pour un environnement scolaire. Vérifier les certifications et les dispositifs mis en œuvre.
+    *   **Formation :** La proposition de formation doit être détaillée (durée, contenu, public visé) et chiffrée.
+
+---
+
+## Lot 2 : Oscilloscope Numérique 4 voies (Accessoire pour Banc B6.7)
+
+-   **Quantité requise :** 1 unité
+-   **Contraintes fonctionnelles majeures :**
+    *   Outil dédié à la maintenance et au diagnostic des véhicules.
+    *   Fonctionnement avec une interface logicielle sur ordinateur.
+    *   Capacité d'acquisition, d'affichage et d'analyse des signaux de mesure sur PC.
+    *   Intégration de fonctionnalités pédagogiques (procédures de tests guidés, base de données technique dédiée au diagnostic automobile).
+-   **Spécifications technologiques strictes :**
+    *   **Type :** Oscilloscope numérique.
+    *   **Voies :** Boîtier d'acquisition à au moins 4 voies de mesure, toutes protégées contre les surtensions et les erreurs de manipulation.
+    *   **Interface logicielle :** Compatible avec le système d'exploitation Windows 11 ou équivalent.
+    *   **Connectivité PC :** Interface de connexion USB ou équivalent, avec une longueur de câble minimale de 1,5 m.
+    *   **Accessoires (ensemble minimal requis) :**
+        *   Cordons de mesure sécurisés avec connectique type fiche banane Ø 4 mm ou équivalent.
+        *   Pinces ampèremétriques pour mesures de courant fort et de courant faible.
+        *   Capteurs adaptés à l'analyse des systèmes d'allumage (si applicable au moteur diesel pour des tests spécifiques).
+        *   Dispositif de mesure de commande de bobines d'allumage par induction ou équivalent (pour systèmes d'allumage, à adapter si le moteur est purement diesel).
+        *   Kit de pointes de test et pinces crocodiles variées.
+        *   Sondes de mesure de tension avec facteur d'atténuation x10 ou équivalent.
+        *   Minimum 2 cordons de test adaptés à la mesure de fusibles.
+-   **Points de vigilance pour le sourcing :**
+    *   **Qualité du logiciel :** Le logiciel est aussi important que le matériel. Les fonctionnalités pédagogiques (tests guidés, base de données) doivent être robustes, à jour et faciles à utiliser pour des apprenants.
+    *   **Robustesse des accessoires :** Les sondes et câbles seront soumis à un usage intensif en atelier. Privilégier des accessoires de qualité professionnelle et durables.
+    *   **Compatibilité :** S'assurer de la compatibilité à long terme du logiciel avec les évolutions des systèmes d'exploitation Windows.
+    *   **Pertinence des capteurs :** Bien que le CCTP mentionne l'allumage, le moteur est diesel. Vérifier que les capteurs fournis sont pertinents pour le diagnostic des systèmes diesel (ex: capteurs de pression, capteurs inductifs/Hall pour PMH/vilebrequin, etc.).
+
+---
+
+## Lot 3 : Banc Moteur Didactique Cummins F3.8 (ou équivalent)
+
+-   **Quantité requise :** 1 unité
+-   **Contraintes fonctionnelles majeures :**
+    *   Intégration d'un moteur neuf avec l'ensemble de son système de post-traitement des gaz d'échappement (DOC, DPF, SCR).
+    *   Présence d'une boîte à pannes didactique permettant la simulation de défauts : Circuits Ouverts (CO), Courts-Circuits (CC), et ajouts de résistances sur les lignes de signaux ou d'alimentation.
+    *   Intégration d'un panneau de mesures didactique pour la réalisation de relevés de grandeurs physiques (résistances, tensions d'alimentation, tensions de commandes, signaux de capteurs).
+    *   Conception du banc assurant une visibilité et une accessibilité pédagogique optimale de tous les éléments techniques du moteur et de ses périphériques.
+    *   Capacité à gérer les fonctions de post-traitement des gaz d'échappement, y compris les cycles de régénération du filtre à particules (FAP) selon les stratégies constructeur.
+    *   Conformité aux exigences d'innocuité, de durabilité, d'ergonomie et de qualité professionnelle.
+    *   Fourniture d'une documentation pédagogique (TP élève/enseignant) et technique (numérique) complète en français.
+    *   Installation et formation des professeurs incluses.
+-   **Spécifications technologiques strictes :**
+    *   **Moteur :** Diesel, neuf, de type Cummins B3.8 (le CCTP mentionne F3.8 en titre et B3.8 dans le corps, le B3.8 est plus précis) ou un équivalent présentant des performances, une cylindrée et un couple strictement équivalents.
+    *   **Norme d'émissions :** Conforme à la réglementation européenne Stage V.
+    *   **Système d'injection :** Diesel à injection électronique, de type Common Rail ou équivalent, permettant une gestion électronique précise des injections.
+    *   **Suralimentation :** Par turbocompresseur à géométrie *fixe* ou un système équivalent. C'est une distinction clé par rapport au B6.7.
+    *   **Aide au démarrage à froid :** Système intégré (ex: réchauffage d'air ou équivalent).
+    *   **Système de post-traitement :** Conforme Stage V, incluant obligatoirement un Catalyseur d'Oxydation Diesel (DOC), un Filtre à Particules Diesel (DPF) et un système de Réduction Catalytique Sélective (SCR) avec injection d'AdBlue, ou un ensemble équivalent respectant la norme.
+    *   **Réservoirs :** Intégration d'un réservoir d'AdBlue et d'un réservoir de carburant fonctionnels et sécurisés.
+    *   **Pupitre de commande (minimum requis) :**
+        *   Système de démarrage et d'arrêt du moteur par commande sécurisée (clé ou équivalent).
+        *   Dispositif d'arrêt d'urgence facilement accessible et conforme aux normes de sécurité.
+        *   Prise de diagnostic moteur standard (ex: CAN / J1939 ou équivalent) avec accès complet aux données en temps réel et aux codes défauts.
+        *   Commande d'accélération au pied pour la variation progressive du régime moteur.
+        *   Commande d'accélération à la main pour le maintien de régimes stabilisés.
+        *   Dispositif de protection électrique (fusibles et relais accessibles pour diagnostic et remplacement).
+        *   Interface d'affichage numérique permettant le suivi des principaux paramètres moteur (régime, températures, pressions, niveaux, etc.) et la lecture des codes défauts.
+    *   **Sécurité et Ergonomie :**
+        *   Bac de rétention intégré et adapté aux fluides du moteur (carburant, huile, AdBlue) pour prévenir les pollutions.
+        *   Protections des éléments en mouvement (courroies, ventilateur, etc.) conformément à la Directive Machines 2006/42/CE.
+        *   Isolation thermique des parties chaudes accessibles (collecteur d'échappement, turbocompresseur, ligne d'échappement) afin de prévenir les risques de brûlures des utilisateurs.
+    *   **Documentation :**
+        *   Dossier pédagogique complet (Travaux Pratiques) en version élève et version enseignant, réputé inclus dans le prix.
+        *   Documentation technique complète en français sur support numérique (clé USB ou équivalent), incluant catalogue de pièces, manuels d'utilisation et de maintenance, schémas électriques détaillés.
+-   **Points de vigilance pour le sourcing :**
+    *   **Justification d'équivalence :** Idem Lot 1. La proposition d'un moteur "équivalent" au Cummins B3.8 doit être rigoureusement justifiée.
+    *   **Turbocompresseur à géométrie fixe :** C'est une spécification clé qui différencie ce banc du B6.7. S'assurer que l'équivalent proposé respecte cette caractéristique pour les objectifs pédagogiques liés à la comparaison des technologies de suralimentation.
+    *   **Intégration didactique, Conformité Stage V, Documentation pédagogique, Sécurité, Formation :** Les mêmes points de vigilance que pour le Lot 1 s'appliquent intégralement.
+
+---
+
+## Lot 4 : Système d'Acquisition de Données et Exploitation (Accessoire pour Banc F3.8)
+
+-   **Quantité requise :** 1 unité
+-   **Contraintes fonctionnelles majeures :**
+    *   Capacité d'acquisition simultanée d'un grand nombre de signaux.
+    *   Polyvalence des voies pour différents types de signaux.
+    *   Fonctionnalité oscilloscope multivoies intégrée.
+    *   Interface utilisateur intuitive avec aide au câblage et réglages avancés.
+    *   Outils d'exploitation et de traitement des données intégrés.
+    *   Conçu pour un usage pédagogique intensif et sécurisé.
+-   **Spécifications technologiques strictes :**
+    *   **Voies d'acquisition :**
+        *   Au moins 16 signaux analogiques simultanément.
+        *   8 voies configurables pour l'acquisition de signaux logiques ou de signaux différentiels.
+    *   **Protections :** Intégration de protections robustes contre les erreurs de manipulation (courts-circuits, surcharges de tension, inversions de branchement) sans dégradation du matériel.
+    *   **Connectivité PC :** Liaison avec un ordinateur via une interface standard de type USB ou équivalent.
+    *   **Alimentation :** Le système doit être alimenté sans recours à une alimentation secteur 230 V dédiée (ex: via l'interface USB ou par une alimentation intégrée au système).
+    *   **Fonction Oscilloscope :** Intégration d'une fonction oscilloscope multivoies permettant l'affichage simultané d'au moins 16 voies avec visualisation des grandeurs mesurées.
+    *   **Connexions de mesure :** Sécurisées et adaptées à un usage pédagogique, de type fiches bananes Ø 4 mm ou équivalent.
+    *   **Fréquence d'acquisition :** Minimum 100 kHz, adaptée à l'analyse des signaux électriques et électroniques des systèmes moteurs.
+    *   **Logiciel d'exploitation (minimum requis) :**
+        *   Aide au câblage (identification des voies, plages de mesure, libellés).
+        *   Acquisition des données avec réglage des conditions de déclenchement (seuils, fronts, etc.).
+        *   Exploitation des données sous forme de représentations graphiques adaptées.
+        *   Outil logiciel intégré ou équivalent permettant des traitements et calculs sur les données acquises.
+-   **Points de vigilance pour le sourcing :**
+    *   **Nombre de voies simultanées :** L'exigence de 16 voies analogiques *simultanées* est élevée. Vérifier la capacité réelle du système et non pas seulement le nombre total de voies disponibles.
+    *   **Polyvalence des voies configurables :** S'assurer que les 8 voies configurables sont réellement flexibles entre logique et différentiel, et que le logiciel supporte bien cette configuration.
+    *   **Robustesse et sécurité :** L'environnement d'apprentissage exige un matériel résistant aux manipulations et aux erreurs. Les protections intégrées sont un critère de choix essentiel.
+    *   **Ergonomie logicielle :** L'intuitivité du logiciel, l'aide au câblage et la facilité d'exploitation des données sont cruciales pour l'apprentissage. Un logiciel complexe ou peu ergonomique réduirait l'intérêt pédagogique.
+    *   **Alimentation autonome :** L'absence de besoin d'une alimentation secteur dédiée est un avantage pratique significatif en atelier.
+
+---
+
+Ce cahier des charges technique détaillé fournit à N2IGC une feuille de route précise pour la sélection et la proposition des équipements. Chaque point de vigilance doit être traité avec la plus grande attention pour garantir la conformité de l'offre et la satisfaction de l'IFPRA Normandie.
