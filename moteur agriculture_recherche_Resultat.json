@@ -1,0 +1,22 @@
+{
+  "date_limite_reception": "Vendredi 17 juillet 2026 – 17h00",
+  "delai_validite_offres": "90 jours (hors vacances scolaires) à compter de la date limite de réception des offres",
+  "contenu_dossier": "Le Règlement de la consultation « RC », Le Cahier des Clauses Administratives Particulières « CCAP », Le Cahier des Clauses Techniques Particulières « CCTP », Le bordereau des Prix Unitaires « BPU », L’Acte d’Engagement « AE », La lettre de candidature « DC1 », La déclaration du candidat « DC2 »",
+  "deroulement_procedure_et_documents_offre": {
+    "mode_transmission": "Uniquement par voie électronique sur la plateforme PLACE (https://www.marches-publics.gouv.fr). La transmission par voie papier n’est pas autorisée.",
+    "pieces_administratives": "Formulaires DC1 (lettre de candidature) et DC2 (déclaration du candidat), KBIS, déclaration sur l’honneur (articles L2141-1 à L2141-5 et L2141-7 à L2141-11 du code de la commande publique et L5212-1 à L5212-11 du code du travail), déclaration concernant le chiffre d’affaires global et du domaine d’activité sur les trois derniers exercices, déclaration appropriée de banques ou preuve d’une assurance pour les risques professionnels, indication des mesures de gestion environnementale.",
+    "pieces_techniques": "Un dossier technique comportant les fiches techniques correspondant aux produits et les prestations proposées (livraison, conseil, SAV, garantie, etc.).",
+    "pieces_financieres": "L’Acte d’Engagement, Le Bordereau des prix unitaires des articles définis (BPU).",
+    "formulaires_annexes_obligatoires": "DC1 (lettre de candidature), DC2 (déclaration du candidat), Acte d’Engagement, Bordereau des prix unitaires (BPU)."
+  },
+  "criteres_attribution": "1. Prix des prestations : 50 points (Méthode de calcul : (montant de l’offre la moins chère / montant de l’offre à noter) x 50). 2. Critères techniques : 40 points (selon les critères techniques demandés au CCTP, comparaison des offres, solidité, durabilité, puissance du matériel, modalités de formation). 3. Délais de livraison : 5 points (note maximale pour le délai indiqué au CCAP, dégressive d’un point tous les mois ouvrables). 4. Normes environnementales - RSE : 5 points.",
+  "acheteur": "IFPRA (Institut de la Formation Professionnelle en Région Académique) 2, rue du Professeur Fleury CS 90102 76137 MONT SAINT AIGNAN Cedex",
+  "date_limite_remise": "Vendredi 17 juillet 2026 – 17h00",
+  "numero_lot": "Non alloti",
+  "montant_maximum_lot": "Non mentionné",
+  "delai_execution": "5 mois calendaires maximum à compter de l’envoi du bon de commande",
+  "lieu_execution": "Lycée Risle Seine à Pont Audemer (dpt 27), UFA Risle Seine PONT AUDEMER",
+  "duree_garantie": "3 ans minimum pièces et main d’œuvre",
+  "penalites_retard": "Valeur de base du bon de commande x nombre de jours de retard / 1000",
+  "visite_obligatoire_site": "Non mentionné"
+}
