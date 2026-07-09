@@ -28,12 +28,11 @@ if not dossiers_trouves:
 
 # On prend le premier dossier détecté
 nom_du_dossier = dossiers_trouves[0]
-print(f"🎯 Dossier détecté : [{nom_du_dossier}]")
+print(f"🎯 Dossier detected : [{nom_du_dossier}]")
 
 # ============================================================
 # LECTURE DE TOUS LES PDF À L'INTÉRIEUR DU DOSSIER
 # ============================================================
-# Recherche tous les .pdf présents dans ce dossier spécifique
 fichiers_pdf = glob.glob(os.path.join(nom_du_dossier, "*.pdf"))
 
 if not fichiers_pdf:
@@ -59,21 +58,47 @@ for chemin_pdf in fichiers_pdf:
         print(f"   🔺 Impossible de lire le fichier {chemin_pdf} : {str(e)}")
 
 # ============================================================
-# ENVOI À L'API GEMINI
+# ENVOI À L'API GEMINI (CONSIGNES EXTRÊMEMENT PRÉCISES)
 # ============================================================
 print("\n⚡ Analyse globale et croisée de tous les documents par Gemini...")
 
 prompt_extraction = f"""
-Analyse l'ensemble des documents textuels extraits du dossier et trouve précisément les 14 éléments clés demandés.
-Certaines informations peuvent être dans un fichier (ex: le RC) et d'autres dans un autre (ex: le CCAP). Fais une synthèse.
-Si une information n'est pas mentionnée du tout, écris obligatoirement "Non mentionné".
+**Mission :** Extraire les informations spécifiques listées ci-dessous à partir du document de consultation (appel d'offres) fourni.
+
+**Instructions :**
+1. Analysez le document joint.
+2. Recherchez les données suivantes.
+3. Restituez les résultats en français, dans un format JSON structuré.
+4. Si une information est introuvable dans le document, indiquez la valeur "Non spécifié".
+
+**Éléments à extraire :**
+1. **Date et heure limites de réception des offres :** (Date et heure exactes de clôture).
+2. **Délai de validité des offres :** (Période pendant laquelle l'offre est valable).
+3. **Contenu du dossier de consultation :** (Pièces administratives, techniques et financières requises pour constituer le dossier de candidature).
+4. **Déroulement de la procédure et présentation des offres :** Description détaillée du processus, incluant :
+    - Le mode de transmission (électronique, papier, enveloppe unique ou double enveloppe).
+    - **La liste exhaustive des documents à fournir dans l'offre**, en distinguant clairement :
+        - *Pièces administratives* (ex : DC1, DC2, extrait K-bis, attestations fiscales et sociales, assurances).
+        - *Pièces techniques* (ex : mémoire technique, méthodologie, planning, références similaires, composition de l'équipe, échantillons).
+        - *Pièces financières* (ex : DQE - Devis Quantitatif Estimatif, BPU - Bordereau des Prix Unitaires, décomposition des coûts).
+    - Les formulaires ou annexes spécifiques à remplir obligatoirement.
+5. **Critères d'attribution :** (Critères de choix de l'offre, ex : prix le plus bas, valeur technique, pondérations entre les sous-critères).
+6. **Acheteur :** (Nom complet et adresse du pouvoir adjudicateur ou de la personne responsable du marché).
+7. **Date limite de remise des offres :** (Vérification supplémentaire si une autre date est mentionnée ailleurs).
+8. **N° de lot :** (Numéro(s) du/des lot(s) concerné(s) par cette consultation).
+9. **Montant maximum pour chaque lot :** (Plafond budgétaire autorisé par lot, en précisant si le montant est Hors Taxes (HT) ou Toutes Taxes Comprises (TTC)).
+10. **Délai d’exécution :** (Durée impartie pour réaliser les prestations ou livrer les biens, en jours ou semaines).
+11. **Lieu d’exécution des prestations / livraison :** (Adresse physique, site ou zone géographique concernée).
+12. **Durée de garantie :** (Période de garantie légale ou contractuelle après réception).
+13. **Pénalités de retard :** (Montant par jour de retard, souvent en pourcentage du montant du marché, et le délai de résiliation du marché en cas de retard excessif).
+14. **Visite obligatoire du site :** Indiquer si une visite du site est obligatoire ou facultative.
 
 --- TEXTES DU DOSSIER COMPLET ---
 {texte_global_dossier[:40000]} 
 """
 
 system_instruction = """
-Tu es un agent de filtrage et d'extraction de données de marchés publics et privés.
+Vous êtes un expert en analyse d'appels d'offres et assistant juridique spécialisé dans les marchés publics et privés.
 Tu dois renvoyer STRICTEMENT un objet JSON valide contenant l'analyse des 14 points, sans aucun texte explicatif avant ou après.
 """
 

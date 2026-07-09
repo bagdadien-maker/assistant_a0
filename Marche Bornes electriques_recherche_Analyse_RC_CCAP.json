@@ -1,0 +1,22 @@
+{
+  "date_limite_reception": "15/07/2026 à 16h00",
+  "delai_validite_offres": "180 jours à compter de la date limite de remise des plis",
+  "contenu_dossier": "Le Règlement de Consultation (RC), l'Acte d'Engagement (AE), le Cahier des Clauses Administratives Particulières (CCAP), le Cahier des Clauses Techniques Particulières (CCTP) incluant le Cahier des Charges Fonctionnel et Technique (CCFT), le Bordereau des Prix Unitaires (BPU), la Décomposition du Prix Global Forfaitaire (DPGF) (si applicable), et les annexes éventuelles.",
+  "deroulement_procedure_et_documents_offre": {
+    "mode_transmission": "Par voie électronique via la plateforme de dématérialisation de France Travail.",
+    "pieces_administratives": "Déclaration sur l'honneur d'absence d'exclusion, formulaire DC1, formulaire DC2 ou DUME, attestations fiscales et sociales (URSSAF, impôts).",
+    "pieces_techniques": "Présentation de l'entreprise (moyens humains et matériels), liste des principales prestations similaires, qualifications professionnelles (Qualifelec IRVE, ISO 9001/14001 si souhaité), description de l'outillage et matériel, description des mesures environnementales, et un Mémoire Technique détaillé.",
+    "pieces_financieres": "Déclaration de chiffre d'affaires (global et spécifique) des trois derniers exercices, attestation d'assurance professionnelle (RC Pro et décennale si applicable), bilans ou extraits de bilans (si demandé), et le Bordereau des Prix Unitaires (BPU) complété.",
+    "formulaires_annexes_obligatoires": "Déclaration sur l'honneur, formulaire DC1, formulaire DC2 ou DUME, Charte Achats Responsables de France Travail signée, Déclaration du candidat relative à la gestion des droits de l’homme dans ses chaînes d’approvisionnement signée."
+  },
+  "criteres_attribution": "Prix des prestations (BPU) : 40 %; Valeur technique de l'offre (Mémoire Technique) : 50 % (incluant qualité/performance IRVE, méthodologie installation, organisation maintenance, qualité/fonctionnalités supervision, pertinence solution monétisation/badges); Critères environnementaux et sociaux (engagements RSE) : 10 % (incluant engagement 3 000 heures d'insertion sociale, démarche environnementale gestion déchets/produits écolabellisés).",
+  "acheteur": "France Travail",
+  "date_limite_remise": "15/07/2026 à 16h00",
+  "numero_lot": "Marché unique, non alloti.",
+  "montant_maximum_lot": "Non spécifié",
+  "delai_execution": "Délais spécifiques détaillés dans l'article 8 du CCAP pour l'installation des IRVE (visite de site, devis, début travaux, intégration supervision, PV réception), la maintenance corrective (intervention sur site, délais d'intervention et de rétablissement selon niveaux), la supervision (interruption de service, télémaintenance) et la gestion des badges RFID (demande de validation).",
+  "lieu_execution": "France métropolitaine et Corse (sites de France Travail).",
+  "duree_garantie": "Garantie contractuelle sur le matériel : 2 ans minimum; Garantie de parfait achèvement : 1 an; Garantie de bon fonctionnement : 2 ans.",
+  "penalites_retard": "Pénalités journalières pour retard d'installation et de mise en service (ex: 1/1000ème du bon de commande) et pour retard de maintenance/rétablissement (ex: 100 € par jour/IRVE). Plafonnement à 10% du montant total HT du marché.",
+  "visite_obligatoire_site": "Non spécifié pour les candidats avant la remise des offres."
+}
